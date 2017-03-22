@@ -4,6 +4,8 @@ Play Asteroids in your browser anywhere, anytime.
 
 This is the live-coding example for my (Erik Gillespie's) _Chrome Extensions for Fun and (Non)Profit_ presentation. It demonstrates how to add a context menu to any page that loads an in-browser [Asteroids game][1] when clicked.
 
+Discover more great Lansing meetups and developers at [Lansing.Codes][12].
+
 ## Resources
 
 * [Slides][2] for _Chrome Extensions for Fun and (Non)Profit_ by Erik Gillespie
@@ -35,3 +37,4 @@ You can get in touch with me at the following places:
 [9]: https://twitter.com/eriklgillespie "Erik Gillespie on Twitter"
 [10]: https://www.linkedin.com/in/eriklgillespie/ "Erik Gillespie on LinkedIn"
 [11]: mailto:erik.gillespie@gmail.com "Email Erik Gillespie"
+[12]: https://www.lansing.codes/ "Find more great Lansing meetups and developers at Lansing.Codes"
